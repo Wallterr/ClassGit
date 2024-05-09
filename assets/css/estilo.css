@@ -31,7 +31,7 @@ nav ul li{
 }
 
 .ativo{
-    color:#FF7800;
+    color:#14d3e0;
 }
 
 /* Estrutura da Seção Principal */
@@ -130,11 +130,11 @@ h1{
     }
 
     #direita button{
-        box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.25), inset 0px -3px 0px #D45A00;
+        box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.25), inset 0px -3px 0px #14d3e0;
         width:100%;
         height:67px;
         margin-top:15px;
-        background-color:#FF6C00;
+        background-color:#0d7880;
         border:0px;
 
         color:white;
@@ -146,5 +146,5 @@ h1{
     }
 
     #direita button:hover{
-        background-color:#ff861caf;
+        background-color:#14d3e0;
     }
